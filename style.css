@@ -110,6 +110,12 @@ article h1, article h3 {
     width: 900px;
     margin: 0 auto;
 }
+.extras-dice {
+    padding: 0 0 0 20px;
+}
+.extras-genre {
+    padding: 0 20px 0 0;
+}
 
 .extras-genre-image img {
     height: 105px;
